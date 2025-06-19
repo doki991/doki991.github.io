@@ -1,0 +1,26 @@
+
+
+p{
+    text-align: center;
+    margin: auto;
+    background-color: rgb(167, 167, 167);
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 12pt;
+    width: 50%;
+}
+
+main{
+    display:grid;
+    grid-template-columns: repeat(3, auto);
+}
+
+.kitolto_terulet{
+    width:480px;
+    height:450px;
+    margin:25px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 12pt;
+    content-visibility:hidden;
+}

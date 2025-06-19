@@ -1,0 +1,49 @@
+h1, h2, h3{
+    text-align: center;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+
+h1{
+    background-color: orange;
+    text-shadow: 1px 1px 3px black;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    border: solid blue 5px; 
+    border-radius: 50px;
+}
+
+h2{
+    background-color:cyan;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    border: solid blue 5px; 
+    border-radius: 50px;
+}
+
+main h3{
+    background-color: rgb(255, 123, 0);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:5px;
+    margin-bottom:5px;
+    width: 40%;
+    padding: 10px;
+    border: solid rgb(110, 110, 110) 5px; 
+    border-radius: 50px;
+}
+
+aside h3{
+    background-color: yellow;
+    margin-left:auto;
+    margin-right:auto;
+    width: 10%;
+    margin-top:5px;
+    margin-bottom:5px;
+    padding: 10px;
+    border: solid red, 5px; 
+    border-radius: 50px;
+}
